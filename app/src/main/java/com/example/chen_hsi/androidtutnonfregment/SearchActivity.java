@@ -61,16 +61,7 @@ public class SearchActivity extends AppCompatActivity {
         sqLiteDatabase=dbHelper.getReadableDatabase();
         cursor=dbHelper.getFacility(sqLiteDatabase);
         int i=0;
-        //insertdata
-        for(String name:facility_name){
-            Facility dataProvider=new Facility(facility_photo_resource[i],
-                    facility_name[i],facility_address[i]);
-            //facilityAdapter.add(dataProvider);
-            dbHelper.addFacility(facility_name[i],Double.parseDouble(facility_xaddr[i]),Double.parseDouble(facility_yaddr[i]),facility_address[i],facility_telephone[i],sqLiteDatabase);
-            i++;
-        }
-
-        i=0;
+        
         //getdata
         if(cursor.moveToFirst())
         {
@@ -95,6 +86,10 @@ public class SearchActivity extends AppCompatActivity {
                 Facility facilitySelected=(Facility)adapterView.getItemAtPosition(i);
                 //TextView selected=(TextView)view.findViewById(R.id.facility_name);
                 Toast.makeText(SearchActivity.this,"You click "+facilitySelected.getFacility_name().toString(),Toast.LENGTH_SHORT).show();
+            Intent intent = new Intent(getApplicationContext(), FacilityActivity.class);
+
+                intent.putExtra("facility_key",facilitySelected);
+                startActivity(intent);
             }
         });
         facilitySearch.addTextChangedListener(new TextWatcher() {
@@ -143,19 +138,8 @@ public class SearchActivity extends AppCompatActivity {
         //return super.onOptionsItemSelected(item);
     }*/
 
-    public void searchFacility(View view) {
-        /*facilityListView.setAdapter(facilityAdapter);
-String search=facilitySearch.getText().toString().trim();
-
-
-        for(Facility facility:facilities){
-            if (facility==null)
-            if(search=="")
-                facilityAdapter.add(facility);
-            else if(facility.getFacility_name().contains(search))
-                facilityAdapter.add(facility);
-        }*/
-    }
+   
+        
     private void setMenu(){
 
         Toolbar myToolbar = (Toolbar) findViewById(R.id.toolbar);
