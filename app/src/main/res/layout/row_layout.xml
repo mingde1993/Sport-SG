@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="75dp"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/facility_photo"
+        android:src="@drawable/picture1"/>
+    <TextView
+        android:id="@+id/facility_name"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_toRightOf="@+id/facility_photo"
+        android:text="Name"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/facility_address"
+        android:layout_width="175dp"
+        android:layout_height="75dp"
+        android:layout_toRightOf="@+id/facility_name"
+        android:text="Address"
+        android:gravity="center"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_below="@id/facility_photo"
+        android:background="#000000"
+        />
+</RelativeLayout>

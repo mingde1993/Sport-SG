@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2783c9b4a1d0a1ba41b3b0de9bcaaaf15deb507e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_7632420140f865ec3e3d03ee1522a8fcad834b82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_b7d2e0abcd3feccdab3edb5e235cecbbc06637f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_e4adc632c9fbb3ed9b5370092bfda82b58fd2068/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6956fa8f84431c745de4cc5b238ae3ee0410348e">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_da42e2d59bc7a043431cd608b4851ce06f1629b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_28efbc1030d55e3cde1371eee58361e20e3c2348/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_3a2d629efe8c2586e29181c2e3ed70b3414636d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_ab8bfbe4e52e8f88ffbadf7e4aa3efdad2626587/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_be1e6be18f06231be5083eb1d3d1d56af6e2c5d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ea70373ff23d8fde06f2341be8ff163c778e9904/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_aad73c4da9da80d100f649af9f55ca8ea0e666dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_854a702fc4abc70e5266e05b67725a801fa13158/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_e8d2f35af3bf1a2c3eb9b2ead4cf5c2e1d441a0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_6f59f7272401b98e1a71a8dd04fc170610b159b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_05286e117fb4f37228e86446fb52256967468b84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0166bc3c57e9d6286be1c7db0f193eb8d23d0e5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_665e768027b03183ec0a6ccb94042359e5522094/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_e904e13378ab8e759773353f8ee4b7938fd1c071/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a81e7026b716e7b5ef85a982cbca0659d118de1a">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_13f09e80ce3720692f65dbd1c936c16edb1b77c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Chen-Hsi/Desktop/Androidtut(nonfregment)/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_bc71d27bc7eb1e6980641d35766b32b6d483c4d9/classes.dex" />
+    </item>
+
+</items>
